@@ -44,10 +44,10 @@ It was developed for learning and demonstration purposes only and is not deploye
 ![Login Page](./screenshots/loginForm.png)
 
 ### Feed
-![Feed](./images/feed.png)
+![Feed](./screenshots/feed.png)
 
 ### Comments
-![Comments](./images/comments.png)
+![Comments](./screenshots/comments.png)
 
 ### Page Not Found
 ![Page Not Found](./screenshots/pageNotFound.png)
