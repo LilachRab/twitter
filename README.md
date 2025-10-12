@@ -35,22 +35,22 @@ It was developed for learning and demonstration purposes only and is not deploye
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](./screenshots/homePage.png)
+![Home Page](./utils/screenshots/homePage.png)
 
 ### Register Page
-![Register Page](./screenshots/registerForm.png)
+![Register Page](./utils/screenshots/registerForm.png)
 
 ### Login Page
-![Login Page](./screenshots/loginForm.png)
+![Login Page](./utils/screenshots/loginForm.png)
 
 ### Feed
-![Feed](./screenshots/feed.png)
+![Feed](./utils/screenshots/feed.png)
 
 ### Comments
-![Comments](./screenshots/comments.png)
+![Comments](./utils/screenshots/comments.png)
 
 ### Page Not Found
-![Page Not Found](./screenshots/pageNotFound.png)
+![Page Not Found](./utils/screenshots/pageNotFound.png)
 
 ---
 
